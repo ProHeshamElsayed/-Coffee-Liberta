@@ -63,17 +63,6 @@ body{
   }
 }
 
-/* محتوى الصفحة */
-.content{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-        background-color: #f8ae69;
-              color: #864203;
-      padding:20px;
-      margin:0px;
-      width: 100%;
-}
 
     body{
       margin:0;
